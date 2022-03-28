@@ -1,0 +1,98 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20200806UOAU",
+    "children" : [ {
+      "name" : "78776-MainThread",
+      "children" : [ {
+        "name" : "正确token，获取用户信息成功",
+        "uid" : "bd21a72a89fcdd0b",
+        "parentUid" : "da4ad039ceedf34c5d81be7162efb428",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648190889818,
+          "stop" : 1648190889835,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[密码错误，登录失败]",
+        "uid" : "58153b3dcaccd448",
+        "parentUid" : "da4ad039ceedf34c5d81be7162efb428",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648190890015,
+          "stop" : 1648190890026,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'code': 801, 'message': '用户名或者密码错误'}", "'1234567'", "'admin'" ]
+      }, {
+        "name" : "test_login[账号错误，登录失败]",
+        "uid" : "c1df4dd588836b42",
+        "parentUid" : "da4ad039ceedf34c5d81be7162efb428",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648190889981,
+          "stop" : 1648190890000,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'code': 801, 'message': '用户名或者密码错误'}", "'123456'", "'admin1'" ]
+      }, {
+        "name" : "test_login[账号密码正确，登录成功]",
+        "uid" : "3c35e41991a07f34",
+        "parentUid" : "da4ad039ceedf34c5d81be7162efb428",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648190889892,
+          "stop" : 1648190889945,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'code': 1001, 'message': '请求成功'}", "'123456'", "'admin'" ]
+      }, {
+        "name" : "错误token，获取用户信息失败",
+        "uid" : "942e2bf2c2adaa50",
+        "parentUid" : "da4ad039ceedf34c5d81be7162efb428",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648190889857,
+          "stop" : 1648190889884,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da4ad039ceedf34c5d81be7162efb428"
+    } ],
+    "uid" : "e0138aba53badda3b1e02c5e52a6ae79"
+  } ]
+}

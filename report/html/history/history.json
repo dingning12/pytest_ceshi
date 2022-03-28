@@ -1,0 +1,97 @@
+{
+  "c1196bf02ec58dedc389c972dde73ad9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1df4dd588836b42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648190889981,
+        "stop" : 1648190890000,
+        "duration" : 19
+      }
+    } ]
+  },
+  "18e80b21a7d6789b3d0bc52a3d1003ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd21a72a89fcdd0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648190889818,
+        "stop" : 1648190889835,
+        "duration" : 17
+      }
+    } ]
+  },
+  "1b6c6e50a9f6f46766e48cb7e77ad326" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "942e2bf2c2adaa50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648190889857,
+        "stop" : 1648190889884,
+        "duration" : 27
+      }
+    } ]
+  },
+  "c4b9787866ea81ab668752bfda5c4716" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "58153b3dcaccd448",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648190890015,
+        "stop" : 1648190890026,
+        "duration" : 11
+      }
+    } ]
+  },
+  "23f91f0d3080102246f604d2a1917944" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c35e41991a07f34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648190889892,
+        "stop" : 1648190889945,
+        "duration" : 53
+      }
+    } ]
+  }
+}
